@@ -16,6 +16,7 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 
 ![Day1-Pic1](https://imgur.com/3VBlSJ3.jpeg)
 
+------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Ngày: 13/05/2025
 - ⏰ Thời gian làm việc: 09:30 - 16:30
 
@@ -28,3 +29,18 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 
 ### 🗓️ Kế hoạch cho ngày tiếp theo:
 - Tiếp tục thực hành cho đến lab07
+------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Ngày: 14/05/2025
+- ⏰ Thời gian làm việc: 13:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Tạo được cost budget.
+- HIểu được tầm quan trọng của việc tạo budget và cách tạo các loại budget bằng template có sẵn của AWS.
+
+### ⚠️ Khó khăn gặp phải:
+- Chưa sử dụng tài nguyên nào nên chưa biết budget hoạt động ra sao
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Làm lab về VPC và EC2
+
+![Day1-Pic1](https://imgur.com/RtcQVaP.jpeg)
