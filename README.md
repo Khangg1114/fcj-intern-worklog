@@ -29,6 +29,9 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 
 ### 🗓️ Kế hoạch cho ngày tiếp theo:
 - Tiếp tục thực hành cho đến lab07
+
+![Day2-Pic1](https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747398104/v0hq7t4exd78vc8jkdvj.jpg)
+  
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Ngày: 14/05/2025
 - ⏰ Thời gian làm việc: 13:30 - 16:30
@@ -43,7 +46,7 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 ### 🗓️ Kế hoạch cho ngày tiếp theo:
 - Làm lab về VPC và EC2
 
-![Day1-Pic1](https://imgur.com/RtcQVaP.jpeg)
+![Day3-Pic1](https://imgur.com/RtcQVaP.jpeg)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -58,5 +61,26 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 - Còn mơ hồ chưa hiểu rõ, phải nhìn vào sơ đồ ví dụ thì mới dễ hiểu
 
 ### 🗓️ Kế hoạch cho ngày tiếp theo:
-- Tạo lại máy chủ EC2 và cấu hình Site to Site VPN
+- Thực hành tạo các thành phần trong VPC
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 16/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Create VPC, Subnet, Internet Gateway, Route Table, Security Group
+- Xem lại các khái niệm để hiểu rõ hơn về cấu trúc
+
+### ⚠️ Khó khăn gặp phải:
+- Phải tự tìm hiểu thêm thì mới hiểu hết được chi tiết các thành phần 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Thực hành tạo máy chủ EC2
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747401077/j2zgty8d7o2alsgkxzu7.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747401087/zf10jok1lwtusnbskkfp.jpg" width="300"/>
+  <img src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747401029/ukwlydy3aovnpqtmtyge.jpg" width="300"/>
+</p>
 
