@@ -35,7 +35,7 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 
 ### ✅ Công việc đã hoàn thành:
 - Tạo được cost budget.
-- HIểu được tầm quan trọng của việc tạo budget và cách tạo các loại budget bằng template có sẵn của AWS.
+- Hiểu được tầm quan trọng của việc tạo budget và cách tạo các loại budget bằng template có sẵn của AWS.
 
 ### ⚠️ Khó khăn gặp phải:
 - Chưa sử dụng tài nguyên nào nên chưa biết budget hoạt động ra sao
@@ -44,3 +44,19 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 - Làm lab về VPC và EC2
 
 ![Day1-Pic1](https://imgur.com/RtcQVaP.jpeg)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 15/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Hiểu được việc vận dụng AWS Well-Architected Framework giúp cải thiện kiến trúc hệ thống theo 6 trụ cột: vận hành hiệu quả, bảo mật, độ tin cậy, hiệu suất, tối ưu chi phí và tính bền vững, từ đó xây dựng solution trên nền tảng AWS.
+- Biết được các khái niệm như: VPC, Subnet, Route Table, Internet Gateway, NAT Gateway và các phương thức bảo mật như: NACL, Security group
+
+### ⚠️ Khó khăn gặp phải:
+- Còn mơ hồ chưa hiểu rõ, phải nhìn vào sơ đồ ví dụ thì mới dễ hiểu
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Tạo lại máy chủ EC2 và cấu hình Site to Site VPN
+
