@@ -84,3 +84,25 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
   <img src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747401029/ukwlydy3aovnpqtmtyge.jpg" width="300"/>
 </p>
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 17/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Tạo máy chủ EC2, kiểm tra kết nối,  tạo NAT Gateway, sử dụng Reachability Analyzer, tạo EIC Endpoint
+
+### ⚠️ Khó khăn gặp phải:
+- Lỗi khi kết nối tới SSH khi dùng VS Code.
+- Lỗi không add EIC Endpoint - SG vào Private subnet - SG nên  không Connect using EC2 Instance Connect Endpoint khi dùng EC2 Private Instance.
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Tiếp tục cấu hình Site to Site VPN để kết nối 2 VPC
+
+<p align="center">
+  <img alt="AllInstances" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747489875/dhvpwxcm86w9wosdk6fu.jpg" width="400"/>
+  <img alt="useEC2PublicConectToPrivateIP" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747489828/ychckwducvxgowjhhslq.jpg" width="400"/>
+  <img alt="UsePrivateinstanceConect" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747489804/hjeahuqxq3d9n3h6uq7i.jpg" width="400"/>
+  <img alt="UseEC2EIC" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747489789/ga9k4pdnsymxppk91ddz.jpg" width="400"/>
+</p>
+
