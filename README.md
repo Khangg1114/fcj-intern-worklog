@@ -106,3 +106,17 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
   <img alt="UseEC2EIC" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747489789/ga9k4pdnsymxppk91ddz.jpg" width="400"/>
 </p>
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 18/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 14:30
+
+### ✅ Công việc đã hoàn thành:
+- Tạo môi trường VPN: tạo thêm VPC và một ECS Instance
+- Cấu hình kết nối VPN: tạo kết nối VPN, cấu hình Customer Gateway
+
+### ⚠️ Khó khăn gặp phải:
+- Lỗi không tải được openswan do dùng Amazon Linux 2023
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Set up Hybrid DNS with Route 53 Resolver
