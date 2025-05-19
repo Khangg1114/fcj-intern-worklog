@@ -120,3 +120,21 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 
 ### 🗓️ Kế hoạch cho ngày tiếp theo:
 - Set up Hybrid DNS with Route 53 Resolver
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 19/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 14:30
+
+### ✅ Công việc đã hoàn thành:
+- Tạo CloudFormation Template
+- Kết nối đến RDGW
+- Triển khai Microsoft AD và thiết lập DNS
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Set up VPC peering
+
+![Day8-Pic1](https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747634140/xdhhdesyxobta0rv5e9z.jpg)
