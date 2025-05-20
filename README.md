@@ -124,7 +124,7 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📅 Ngày: 19/05/2025
-- ⏰ Thời gian làm việc: 09:30 - 14:30
+- ⏰ Thời gian làm việc: 09:30 - 16:30
 
 ### ✅ Công việc đã hoàn thành:
 - Tạo CloudFormation Template
@@ -138,3 +138,25 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 - Set up VPC peering
 
 ![Day8-Pic1](https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747634140/xdhhdesyxobta0rv5e9z.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 20/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Tạo CloudFormation Template, SG, EC2 instance
+- Cập nhật NACL
+- Tạo kết nối Peering và configure Route Tables
+- Kích hoạt Cross-Peer DNS
+
+### ⚠️ Khó khăn gặp phải:
+- Bị lỗi không kết nối được tới private IP do chưa set route table
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Set up AWS Transit Gateway
+
+<p align="center">
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747724251/utepwjx2pixys0jdepi0.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747724279/aliypwfcjmtasjxi57kf.jpg" width="400"/>
+</p>
