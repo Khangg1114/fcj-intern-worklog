@@ -160,3 +160,21 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747724251/utepwjx2pixys0jdepi0.jpg" width="400"/>
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747724279/aliypwfcjmtasjxi57kf.jpg" width="400"/>
 </p>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 21/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Tạo Transit Gateway, TGW Attachments, TGW ransit Gateway Route Tables
+- Thêm Transit Gateway Routes vào VPC Route Tables
+- Sử dụng AWS Reachability Analyzer để kiểm tra kết nối giữa 2 Instances
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Compute VM on AWS
+
+![Day10-Pic1](https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747809394/ek3axvn4doercc7hevyp.jpg)
