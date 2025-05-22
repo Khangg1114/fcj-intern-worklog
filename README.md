@@ -178,3 +178,18 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 - Compute VM on AWS
 
 ![Day10-Pic1](https://res.cloudinary.com/dqnwg2tlu/image/upload/v1747809394/ek3axvn4doercc7hevyp.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 22/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Tìm hiểu về các tính năng dịch vụ trên Amazon EC2, Amazon Lightsail, Amazon EFS/FSX, AWS MGN
+- Đọc phần 1 chap 1 của cuốn AWS Certified Advanced Networking Study Guide: Specialty (ANS-C01) Exam, 2nd Edition
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Deploy AWS Backup to the System Lab
