@@ -193,3 +193,26 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 
 ### 🗓️ Kế hoạch cho ngày tiếp theo:
 - Deploy AWS Backup to the System Lab
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 26/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Create Backup plan
+- Setup notifications
+- Test Restore
+
+### ⚠️ Khó khăn gặp phải:
+- Giao diện cấu hình khác với hướng dẫn có nhiều tính năng hơn
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Using AWS Storage Gateway
+
+<p align="center">
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748232866/xo6tjytryf3hianmtdp0.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748232880/xawdpytavsniiot2zv1p.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748232891/i3yai3xtghxkhkgidwif.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748232903/c3rdlykwx7ook51ljv1o.jpg" width="400"/>
+</p>
