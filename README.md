@@ -216,3 +216,24 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748232891/i3yai3xtghxkhkgidwif.jpg" width="400"/>
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748232903/c3rdlykwx7ook51ljv1o.jpg" width="400"/>
 </p>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 27/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Create S3 bucket & EC2 for Storage Gateway
+- Create Storage Gateway
+- Create File Shares & Mount File shares on On-premises machine
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Using Amazon Simple Storage Service (Amazon S3) 
+
+<p align="center">
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748390268/x2wjtijicvlwhsrhqvjv.jpg" width="400"/>
+
+</p>
