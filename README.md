@@ -231,9 +231,30 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 - 
 
 ### 🗓️ Kế hoạch cho ngày tiếp theo:
-- Using Amazon Simple Storage Service (Amazon S3) 
+- Using Amazon Simple Storage Service (Amazon S3)
 
 <p align="center">
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748390268/x2wjtijicvlwhsrhqvjv.jpg" width="400"/>
 
+</p>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 28/05/2025
+- ⏰ Thời gian làm việc: 09:30 - 16:30
+
+### ✅ Công việc đã hoàn thành:
+- Create S3 bucket & load data
+- Config Amazon CloudFront
+- Move objects & Replication Oject multi Region
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Tìm hiểu về dịch vụ lưu trữ trên AWS
+
+<p align="center">
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748489119/fpdfbbwifstwy19q5u66.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748489133/odi13hdecutzxnjdl8uy.jpg" width="400"/>
 </p>
