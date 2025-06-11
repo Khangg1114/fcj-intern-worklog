@@ -258,3 +258,59 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748489119/fpdfbbwifstwy19q5u66.jpg" width="400"/>
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1748489133/odi13hdecutzxnjdl8uy.jpg" width="400"/>
 </p>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 09/06/2025
+- ⏰ Thời gian làm việc: 09:00 - 16:00
+
+### ✅ Công việc đã hoàn thành:
+- Tìm hiểu thêm và Amazon EC2, cách sử dụng và làm sao để build lên một software systems.
+- https://docs.aws.amazon.com/ec2/?nc2=h_ql_doc_ec2
+- Chat với đội ngũ Amazon Support để xin thêm dung lượng EVS:Volume vì hết gói Free Tier nhưng không được
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Tìm hiểu lý thuyết cơ bản về các dịch vụ lưu trữ trên AWS
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 10/06/2025
+- ⏰ Thời gian làm việc: 09:00 - 16:00
+
+### ✅ Công việc đã hoàn thành:
+- Hiểu được các khái niệm về : 
+    + Amazon Simple Storage Service (S3)
+    + S3 Static Website 
+    + CORS - Control Access - Object Key
+    + Performance - Glacier
+    + Snow Family - Storage Gateway
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- VM Import/Export in AWS
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 11/06/2025
+- ⏰ Thời gian làm việc: 09:00 - 16:00
+
+### ✅ Công việc đã hoàn thành:
+- Import virtual machine to AWS
+- Export instance from AWS
+
+### ⚠️ Khó khăn gặp phải:
+- 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Amazon FSx for Windows File Server
+
+<p align="center">
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749635547/jbuq7kczz6rdhw9ldrr9.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749635574/nioec6kbbpeemxcud9ki.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749635628/lu5byxngu0ndbaskasb9.jpg" width="400"/>
+</p>
