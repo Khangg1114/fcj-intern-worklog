@@ -314,3 +314,31 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749635574/nioec6kbbpeemxcud9ki.jpg" width="400"/>
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749635628/lu5byxngu0ndbaskasb9.jpg" width="400"/>
 </p>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 12/06/2025
+- ⏰ Thời gian làm việc: 09:00 - 16:00
+
+### ✅ Công việc đã hoàn thành:
+- Create new file shares
+- Test & Monitor Performance 
+- Enable data deduplication, shadow copies
+- Manage user sessions and open files
+- Manage user sessions and open files
+- Enable user storage quotas & continuous Access share
+- Scale throughput & storage capacity
+- Write a Notepad file to save the questions & answers while doing the lab [Link](https://drive.google.com/file/d/1lG7tzHrZ2knIY5Kix6oVKzVeQFCKByQ2/view)
+
+### ⚠️ Khó khăn gặp phải:
+- Gặp lỗi phiên bản NodeJs khi tạo Stack
+- Gặp lỗi về các đường link đã cũ khi sử dụng Remote Windows PowerShell 
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Dịch vụ bảo mật trên AWS
+
+<p align="center">
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749718495/yzg4ba6rvii6l8cylbtp.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749718516/hpfwxajxbx1fnydvcszl.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749718538/xmkrwuzs7d0mmuiwtf8r.jpg" width="400"/>
+</p>
