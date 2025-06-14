@@ -342,3 +342,25 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749718516/hpfwxajxbx1fnydvcszl.jpg" width="400"/>
   <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1749718538/xmkrwuzs7d0mmuiwtf8r.jpg" width="400"/>
 </p>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 13/06/2025
+- ⏰ Thời gian làm việc: 09:00 - 16:00
+
+### ✅ Công việc đã hoàn thành:
+- Shared Responsibility Model
+- AWS Identity and Access Management
+- Amazon Cognito
+- AWS Organization & AWS Identity Center (SSO)
+- AWS KMS
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 14/06/2025
+- ⏰ Thời gian làm việc: 09:00 - 12:00
+
+### ✅ Công việc đã hoàn thành:
+- Tham gia sự kiện AWS FIRST CLOUD SECURITY JOURNEY (Cloud Security Engineering, AWS WAF, AWS GuardDuty, AWS Bedrock and OWASP Controls, MCP Environments)
+
+
