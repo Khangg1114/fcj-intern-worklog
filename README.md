@@ -363,4 +363,22 @@ Worklog thực tập tại FCJ – Họ và tên: Nguyễn Hà An Khang
 ### ✅ Công việc đã hoàn thành:
 - Tham gia sự kiện AWS FIRST CLOUD SECURITY JOURNEY (Cloud Security Engineering, AWS WAF, AWS GuardDuty, AWS Bedrock and OWASP Controls, MCP Environments)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📅 Ngày: 16/06/2025
+- ⏰ Thời gian làm việc: 09:00 - 16:00
+
+### ✅ Công việc đã hoàn thành:
+- Enable Security Hub & Score for each set of criteria
+- Utilize a Lambda function to automate server startup and shutdown
+
+### 🗓️ Kế hoạch cho ngày tiếp theo:
+- Manage Resources Using Tags and Resource Groups
+
+<p align="center">
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1750131401/y9fmsa5tgc56tltcv0fv.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1750131423/jsfrutq3otunjguhllbt.jpg" width="400"/>
+  <img alt="" src="https://res.cloudinary.com/dqnwg2tlu/image/upload/v1750131448/oc0x5l1ztqafschditp8.jpg" width="400"/>
+</p>
+
 
